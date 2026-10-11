@@ -1,19 +1,11 @@
 <div align="center">
 	<h1>Mine Docs</h1>
 	<p>
-		Базовая сборка под 1.21.4-11 на основе Fabric, нацеленная на оптимизацию и функциональные возможности.
+		🧊 growing archive of minecraft mods, worlds, and configs.
 	</p>
 </div>
 
 ---
-
-<!-- 3de4b570bb06e9f1 -->
-
-## Info
-
-- Type - `Vanilla`
-- Loader - [`Fabric API`](https://fabricmc.net)
-- Version - `1.21.4-11`
 
 ## Docs
 
@@ -24,12 +16,18 @@
 - [Resources](docs/resources.md)
 - [Shaders](docs/shaders.md)
 
-## Materials
+## Platform
 
-- [Skins](https://ru.namemc.com)
-- [Modrinth](https://modrinth.com)
-- [CurseForge](https://www.curseforge.com/minecraft)
-- [Enchants](https://luckmine.ru/minecraft/enchant)
+- [Forge](https://files.minecraftforge.net)
 - [Fabric](https://fabricmc.net)
 - [NeoForge](https://neoforged.net)
-- [Forge](https://files.minecraftforge.net)
+
+## ModPorts
+
+- [Modrinth](https://modrinth.com)
+- [CurseForge](https://curseforge.com/minecraft)
+
+## Materials
+
+- [NameMC](https://ru.namemc.com) <!-- 3de4b570bb06e9f1 -->
+- [LuckMine](https://luckmine.ru/minecraft)

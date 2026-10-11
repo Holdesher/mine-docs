@@ -1,7 +1,6 @@
 # Client
 
-- [Mojang](https://www.minecraft.net/ru-ru/download) - Требуется лицензия.
-- [MultiMC](https://multimc.org/#Download) - Требуется лицензия.
-- [Prism Launcher](https://prismlauncher.org/download) - Требуется лицензия.
-- [Legacy Launcher](https://llaun.ch/ru)
-- [Legacy Launcher Mirror](https://lln4.ru/ru)
+- `Mojang` [site](https://minecraft.net/ru-ru/download) - Официальный сайт Minecraft. Требуется лицензия.
+- `Prism Launcher` [site](https://prismlauncher.org/download) / [github](https://github.com/PrismLauncher/PrismLauncher) - Лаунчер с менеджером инстансов, нативная сборка под Apple Silicon. Требуется лицензия.
+- `MultiMC` [site](https://multimc.org) / [github](https://github.com/MultiMC/MultiMC5) - Лаунчер с изолированными инстансами и отдельными настройками. Требуется лицензия.
+- `Legacy Launcher` [site](https://llaun.ch) / [mirror](https://lln4.ru) - Бесплатный лаунчер, работает без лицензии.
