@@ -30,4 +30,6 @@
 ## Materials
 
 - [NameMC](https://ru.namemc.com) <!-- 3de4b570bb06e9f1 -->
+- [MotdGG](https://motd.gg)
 - [LuckMine](https://luckmine.ru/minecraft)
+- [Minecraft Tools](https://minecraft.tools)
