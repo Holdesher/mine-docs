@@ -1,8 +1,6 @@
 <div align="center">
 	<h1>Mine Docs</h1>
-	<p>
-		🧊 growing archive of minecraft mods, worlds, and configs.
-	</p>
+	<p>🧊 growing archive of Minecraft mods, worlds, and configs</p>
 </div>
 
 ---
