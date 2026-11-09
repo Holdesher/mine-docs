@@ -27,13 +27,13 @@
 
 ### List
 
-- [Java v17](https://adoptium.net/temurin/releases/?version=17)
-- [Java v18](https://adoptium.net/temurin/releases/?version=18)
-- [Java v19](https://adoptium.net/temurin/releases/?version=19)
-- [Java v20](https://adoptium.net/temurin/releases/?version=20)
-- [Java v21](https://adoptium.net/temurin/releases/?version=21)
-- [Java v22](https://adoptium.net/temurin/releases/?version=22)
-- [Java v23](https://adoptium.net/temurin/releases/?version=23)
-- [Java v24](https://adoptium.net/temurin/releases/?version=24)
-- [Java v25](https://adoptium.net/temurin/releases/?version=25)
-- [Java v26](https://adoptium.net/temurin/releases/?version=26)
+- [Java v17](https://adoptium.net/temurin/releases?version=17)
+- [Java v18](https://adoptium.net/temurin/releases?version=18)
+- [Java v19](https://adoptium.net/temurin/releases?version=19)
+- [Java v20](https://adoptium.net/temurin/releases?version=20)
+- [Java v21](https://adoptium.net/temurin/releases?version=21)
+- [Java v22](https://adoptium.net/temurin/releases?version=22)
+- [Java v23](https://adoptium.net/temurin/releases?version=23)
+- [Java v24](https://adoptium.net/temurin/releases?version=24)
+- [Java v25](https://adoptium.net/temurin/releases?version=25)
+- [Java v26](https://adoptium.net/temurin/releases?version=26)
